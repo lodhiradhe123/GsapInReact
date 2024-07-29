@@ -1,0 +1,10 @@
+#box{
+  width: 50px;
+  height: 90px;
+  margin: 200px;
+  background-image: url("https://imgs.search.brave.com/9CxO8hCz0bd8Odd-DlBKY-8g5G7AjTax1_I2OmoN5gc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9lMC5w/eGZ1ZWwuY29tL3dh/bGxwYXBlcnMvNTEz/LzU5NS9kZXNrdG9w/LXdhbGxwYXBlci1j/aGhvdGEtYmhlZW0u/anBn");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  transform: rotatey(180deg);
+}
